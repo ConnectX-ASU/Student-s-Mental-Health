@@ -20,3 +20,35 @@ Here's how we tackled it:
 
 This project demonstrates the power of machine learning in addressing real-world challenges and promoting mental health awareness. Moving forward, we're committed to refining our model and expanding its reach to benefit more students across universities.
 
+
+# **Credits :**
+
+This notebook is created by [Connect X](https://www.linkedin.com/company/connectx23/)
+AI team.
+
+-------------------------------------------
+
+### **Directed by :**
+
+AI team director [Ammar Thabet](https://www.linkedin.com/in/ammar-thabett/)
+
+### **Team leaders :**
+
+- [Yomna Mohammed Bassam](https://www.linkedin.com/in/yomna-muhammed-bassam-b964a6270)
+
+- [Habiba Nasser](www.linkedin.com/in/habiba-naser)
+
+### **Team members :**
+
+- [Hagar Waleed](https://www.linkedin.com/in/hagar-waleed-b3a511247/)
+
+- [Nour Sameh]()
+
+- [Julia Joseph Nabil](https://www.linkedin.com/in/julia-joseph-b91a85210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- [Ziad Ashraf Ali Ahmed](https://www.linkedin.com/in/ziad-ashraf-93a040255/)
+
+
+- [David Magdy Nagib](https://www.linkedin.com/in/david-magdy-nagib)
+
+- [Aley Amr](https://www.linkedin.com/in/aley-amr-3002b3242)
